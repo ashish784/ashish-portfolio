@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/Soumyajit4419"
+                href="https://twitter.com/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/soumyajit4419/"
+                href="https://linkedin.com/in/ashish-maurya-081588243"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
