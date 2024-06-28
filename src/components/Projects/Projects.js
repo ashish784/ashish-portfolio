@@ -8,6 +8,7 @@ import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
+import webflix from "../../Assets/Projects/webflix.png";
 
 function Projects() {
   return (
@@ -21,16 +22,16 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={webflix}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="Webflix"
+              description="Webflix is a streaming service that allows users to explore and watch an extensive collection of movies and TV shows trailer from various genres. The platform offers an intuitive user interface, making it easy for users to discover new content."
+              ghLink="https://github.com/ashish784/movix"
+              demoLink="https://webflix-sooty.vercel.app"
             />
-          </Col> */}
+          </Col>
 
           {/* <Col md={4} className="project-card">
             <ProjectCard
